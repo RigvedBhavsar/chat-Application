@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+}
+
+.formcard{
+    margin-top: 50px;
+    max-height: 500px;
+    border: 1px solid gray;
+    max-width: 500px;
+    padding-bottom: 10px;
+}
